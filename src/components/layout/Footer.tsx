@@ -12,7 +12,7 @@ export default function Footer() {
               <img
                 src={logo}
                 alt="vicinity"
-                className="h-10 w-10 sm:h-12 sm:w-12 md:h-36 md:w-36 object-contain"
+                className="h-20 w-20 sm:h-12 sm:w-12 md:h-36 md:w-36 object-contain"
               />
               {/* <span className="text-lg sm:text-xl font-bold text-white">vicinity</span> */}
             </div>

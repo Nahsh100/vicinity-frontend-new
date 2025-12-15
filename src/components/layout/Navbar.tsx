@@ -19,7 +19,7 @@ export default function Navbar() {
               <img
                 src={logo}
                 alt="vicinity"
-                className="h-8 w-8 sm:h-10 sm:w-10 md:h-36 md:w-36 group-hover:scale-110 transition-transform object-contain"
+                className="h-20 w-20 sm:h-10 sm:w-10 md:h-36 md:w-36 group-hover:scale-110 transition-transform object-contain"
               />
               {/* <span className="text-lg sm:text-xl md:text-2xl font-bold text-gray-900">vicinity</span> */}
             </Link>
